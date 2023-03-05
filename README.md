@@ -1,5 +1,5 @@
 
-# ShesPrecious - (TEAM.ID - WNV2306)
+# ShesPrecious - (TEAM-ID : WNV2306)
 
 This project is a mobile application built using Flutter which runs on dart. The purpose of the app is to empower women by providing them with necessary tools and resources to help them in their daily lives. The app has been tested on iPhone 14 Pro and iPhone 14 Pro Max emulators ios(16.3.1) in debug mode.
 
