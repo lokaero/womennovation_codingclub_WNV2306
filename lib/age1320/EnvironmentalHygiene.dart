@@ -55,24 +55,27 @@ class EnvironmentHygiene1320 extends StatelessWidget {
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 0),
-                child: Image(image: AssetImage('images/environment.png')),
+                child: Image(image: AssetImage('images/Environment13.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
+⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
 
-⦿Environmental hygiene is as important as personal hygiene. And children at a young age should be taught about environmental hygiene so that they will follow it through the rest of their life.
+1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
 
-1.	The environment is everything that surrounds us. The environment around us should be kept clean to prevent the spread of germs and diseases. If the environment is clean all the people living in the environment will be healthy and happy.
+⦿Here are some of the steps for the proper disposal of sanitary napkins:
 
-2.	Cleanliness: cleanliness is keeping your surroundings clean by picking up waste and dropping them in the bin, keeping your belonging organized way.
+a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
 
-3.	Conservation of resources: we should conserve resources such as water, and electricity by turning off lights and fans when not in use and properly closing taps.
+b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
 
-4.	Proper food handling: food like fruits and vegetables should be washed and consumed. Waste from food should be properly disposed of as it would give a foul smell if not disposed of properly.
+c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
 
-5.	Recycling: recycling refers to using waste products in a useful way after some processes. Mostly plastics, paper, and glasses are recycled and they should be collected in a separate bin and given out for recycling in that way the waste in the environment can be reduced.
+d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+
+2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
 
 
          """,

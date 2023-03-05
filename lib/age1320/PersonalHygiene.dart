@@ -55,26 +55,22 @@ class PersonalHygiene1320 extends StatelessWidget {
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 50.0, vertical: 10),
-                child: Image(image: AssetImage('images/safe.png')),
+                child: Image(image: AssetImage('images/Personal13.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
 
-⦿Teaching personal hygiene to children is important for them to prevent the spread of germs and keep them healthy.
+⦿Personal hygiene is important for women of all ages, here are some of the personal hygiene tips that they can follow.
 
-⦿This app provides basic information about personal hygiene to kids in the language and terms which they can understand. 
+1.	Daily bathing: it is important to bathe or shower daily to keep the body clean and fresh and give special attention to intimate areas
 
-1.	Washing hands:  you should wash your hand regularly, especially before and after meals, after using the bathroom, after playing with friends, and after blowing your nose. Proper hand-washing techniques should be followed.
+2.	Use clean clothes: wear clothes and undergarments appropriate for the weather and climate. Avoid wearing the same clothes for several days in a row.
 
-2.	Brushing teeth:  Children should brush their teeth twice a day right after waking up and before bed. Use brush and paste for at least two minutes to clean teeth and gums.
+3.	Genital hygiene: genital area should be cleaned with the help of warm water and mild soap. Excessive use of soap might cause infections in the areas and might disturb the natural pH balance of the vagina. Wearing cotton undergarments and avoiding tight-fitting clothes might also help in genital hygiene.
 
-3.	Bathing: children should bathe regularly, that is every day with the help of soap and warm water to clean the whole body.
-
-4.	Nail care: nails should be kept clean and cut regularly to prevent the spread of germs. Learn how to use nail cutters and regularly wash your hands to prevent dirt and bacteria from nails
-
-5.	Mouth and nose hygiene: you should cover your nose and mouth while sneezing or coughing. Use tissues or a handkerchief and throw the tissues off after sneezing, Wash your hands afterward.
+4.	Menstrual hygiene: women should change their menstrual products (sanitary pads, tampons) regularly to prevent infection and odour.
 
 
          """,

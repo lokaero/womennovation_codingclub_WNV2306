@@ -54,7 +54,7 @@ class Hygiene1320 extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(
                 left: 40.0, right: 40, top: 40, bottom: 60),
-            child: Image.asset('images/sanitary.png'),
+            child: Image.asset('images/Hygiene13.png'),
           ),
 
 //Good touch and bad touch
