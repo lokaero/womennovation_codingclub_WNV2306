@@ -17,7 +17,7 @@ Once you have these tools installed, you can clone the repository using the foll
 git clone 
 
   ```
-  https://github.com/lokaero/womennovation_prodsw_codingclub.git
+  https://github.com/lokaero/womennovation_codingclub_WNV2306.git
   ```
 
 
@@ -56,30 +56,6 @@ The application has been built using flutter:
 ## Languages used:
   -Dart
 
-## Team Members
-
-Dhivagaran RR (20P604).
-
-Kevin A (20P610).
-
-Sarvesh S (20P624).
-
-Smruthi P (20P625).
-
-Lokeshwaran B (21P913).
-
-## Future Plans
-
-While our project is currently in its initial stage, we have plans to add more features and functionalities in the future. Some of our future plans include:
-
-- Integrating the application with popular productivity tools.
-- Adding more customization options for the user interface.
-- Implementing machine learning algorithms to provide personalized task recommendations and suggestions to users.
-
-## Contributing
-
-We welcome contributions from other PSG Coding Club members who are interested in working on this project. If you would like to contribute, please reach out to us and we will be happy to provide you with more information.
-mail - 21p913@psgtech.ac.in
 
 
 
