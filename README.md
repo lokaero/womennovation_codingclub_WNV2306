@@ -1,7 +1,7 @@
 
 # ShesPrecious - (TEAM-ID : WNV2306)
 
-This project is a mobile application built using Flutter which runs on dart. The purpose of the app is to empower women by providing them with necessary tools and resources to help them in their daily lives. The app has been tested on iPhone 14 Pro and iPhone 14 Pro Max emulators ios(16.3.1) in debug mode.
+This project is a mobile application built using Flutter which runs on dart. The purpose of the app is to empower women by providing them with necessary tools and resources to help them in their daily lives. The app has been tested on iPhone 14 Pro and iPhone 14 Pro Max emulator ios(16.3.1) in debug mode.
 
 
 
@@ -47,9 +47,14 @@ We, the students of PSG College of Technology from the Department of Production 
 
 ## Project Description
 
-Our project is a android/ios application that focuses on women. #WOMENnovation
+Our project is a android/ios application that focuses on Women Health&Hygiene. #WOMENnovation
 
-The application has been built using flutter platform and dart language.
+The application has been built using flutter:
+
+  -UI/UX designed with Flutter
+
+## Languages used:
+  -Dart
 
 ## Team Members
 
