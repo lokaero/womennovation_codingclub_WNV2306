@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:womenh/age512/512content1.dart';
+import 'package:womenh/age512/512content2.dart';
 import 'package:womenh/pages/home_page.dart';
 
 class Age512 extends StatelessWidget {
@@ -87,7 +88,7 @@ class Age512 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const HomePage();
+                return const Hygiene();
               })),
               child: Container(
                 decoration: BoxDecoration(
