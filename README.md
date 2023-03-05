@@ -31,9 +31,41 @@ Run the following command in the terminal to start the app:
   fultter run
   ```
 
+# PSG Coding Club Project
+
+We, the students of PSG College of Technology from the Department of Production Engineering (SW) 3rd year, have created this project for the PSG Coding Club.
+
+## Project Description
+
+Our project is a android/ios application that focuses on women. #WOMENnovation
+
+The application has been built using flutter platform and dart language.
+
+## Team Members
+
+Dhivagaran RR (20P604).
+
+Kevin A (20P610).
+
+Sarvesh S (20P624).
+
+Smruthi P (20P625).
+
+Lokeshwaran B (21P913).
+
+## Future Plans
+
+While our project is currently in its initial stage, we have plans to add more features and functionalities in the future. Some of our future plans include:
+
+- Integrating the application with popular productivity tools.
+- Adding more customization options for the user interface.
+- Implementing machine learning algorithms to provide personalized task recommendations and suggestions to users.
+
 ## Contributing
 
-This project is still in development stage and contributions are welcome. If you would like to contribute to this project, please create a pull request with your changes.
+We welcome contributions from other PSG Coding Club members who are interested in working on this project. If you would like to contribute, please reach out to us and we will be happy to provide you with more information.
+
+
 
 
 
