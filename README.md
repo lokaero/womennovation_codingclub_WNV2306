@@ -74,6 +74,7 @@ While our project is currently in its initial stage, we have plans to add more f
 ## Contributing
 
 We welcome contributions from other PSG Coding Club members who are interested in working on this project. If you would like to contribute, please reach out to us and we will be happy to provide you with more information.
+mail - 21p913@psgtech.ac.in
 
 
 
