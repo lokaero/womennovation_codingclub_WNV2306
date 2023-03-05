@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.symmetric(horizontal: 24.0),
             child: Text(
-              "Welcome to Women H&H",
+              "Welcome to ShesPrecious",
               style: TextStyle(
                 fontFamily: 'Enrique',
                 fontSize: 20,
