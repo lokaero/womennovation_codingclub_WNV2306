@@ -17,7 +17,7 @@ Once you have these tools installed, you can clone the repository using the foll
 git clone 
 
   ```
-  https://github.com/lokaero/womennovation_prodsw_codingclub.git
+  https://github.com/lokaero/womennovation_codingclub_WNV2306.git
   ```
 
 
