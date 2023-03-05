@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:womenh/age1320/MentalHealth.dart';
 import 'package:womenh/pages/home_page.dart';
 
 class Age1320 extends StatelessWidget {
@@ -58,7 +59,7 @@ class Age1320 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const HomePage();
+                return const MentalHealth1320();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -73,7 +74,7 @@ class Age1320 extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Content 1",
+                  "Mental Health",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
