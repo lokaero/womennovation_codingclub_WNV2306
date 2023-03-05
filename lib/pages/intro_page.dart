@@ -13,7 +13,7 @@ class IntroPage extends StatelessWidget {
 
           Padding(
             padding: const EdgeInsets.only(
-                left: 80.0, right: 80, top: 150, bottom: 60),
+                left: 80.0, right: 80, top: 100, bottom: 60),
             child: Image.asset('images/womanlogo.png'),
           ),
 
