@@ -75,10 +75,7 @@ class PersonalHygiene extends StatelessWidget {
 
 5.	Mouth and nose hygiene: you should cover your nose and mouth while sneezing or coughing. Use tissues or a handkerchief and throw the tissues off after sneezing, Wash your hands afterward.
 
-         
-         
-         
-         
+
          """,
                   textAlign: TextAlign.left,
                   style: TextStyle(fontSize: 20, fontFamily: 'Enrique'),

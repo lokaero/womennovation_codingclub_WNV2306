@@ -74,17 +74,6 @@ class EnvironmentHygiene extends StatelessWidget {
 5.	Recycling: recycling refers to using waste products in a useful way after some processes. Mostly plastics, paper, and glasses are recycled and they should be collected in a separate bin and given out for recycling in that way the waste in the environment can be reduced.
 
 
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
          """,
                   textAlign: TextAlign.left,
                   style: TextStyle(fontSize: 20, fontFamily: 'Enrique'),

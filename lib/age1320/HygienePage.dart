@@ -1,10 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:womenh/age1320/EnvironmentalHygiene.dart';
+import 'package:womenh/age1320/PersonalHygiene.dart';
 import 'package:womenh/age512/512content1.dart';
 import 'package:womenh/age512/512content2.dart';
+import 'package:womenh/age512/Environmenthygiene.dart';
+import 'package:womenh/age512/Personalhygiene.dart';
+import 'package:womenh/pages/age13-20.dart';
+import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
 
-class Age512 extends StatelessWidget {
-  const Age512({super.key});
+class Hygiene1320 extends StatelessWidget {
+  const Hygiene1320({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -12,12 +18,12 @@ class Age512 extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.yellow,
         child: const Icon(
-          Icons.home,
+          Icons.arrow_back,
           color: Colors.black,
         ),
         onPressed: () => Navigator.pushReplacement(context,
             MaterialPageRoute(builder: (context) {
-          return const HomePage();
+          return const Age1320();
         })),
       ),
       body: Column(
@@ -27,7 +33,7 @@ class Age512 extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.only(right: 160.0, top: 80),
             child: Text(
-              "Age Category 5-12",
+              "Age Category 13-20",
               style: TextStyle(
                 fontFamily: 'Enrique',
                 fontSize: 20,
@@ -35,9 +41,9 @@ class Age512 extends StatelessWidget {
             ),
           ),
           const Padding(
-            padding: EdgeInsets.only(right: 180.0),
+            padding: EdgeInsets.only(right: 210.0),
             child: Text(
-              "Hello There!",
+              "Hygiene",
               style: TextStyle(
                   fontFamily: 'Enrique',
                   fontSize: 30,
@@ -47,8 +53,8 @@ class Age512 extends StatelessWidget {
 
           Padding(
             padding: const EdgeInsets.only(
-                left: 40.0, right: 40, top: 2, bottom: 60),
-            child: Image.asset('images/children.png'),
+                left: 40.0, right: 40, top: 40, bottom: 60),
+            child: Image.asset('images/sanitary.png'),
           ),
 
 //Good touch and bad touch
@@ -58,7 +64,7 @@ class Age512 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const goodtouch();
+                return const PersonalHygiene1320();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -71,22 +77,16 @@ class Age512 extends StatelessWidget {
                   ],
                   borderRadius: BorderRadius.circular(12),
                 ),
-                
-
-
-                
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Good Touch and Bad Touch",
+                  "Personal Hygiene",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
                       fontFamily: 'Enrique',
                       fontWeight: FontWeight.bold),
                 ),
-                
               ),
-              
             ),
           ),
           Padding(
@@ -94,7 +94,7 @@ class Age512 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const Hygiene();
+                return const EnvironmentHygiene1320();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -109,7 +109,7 @@ class Age512 extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Hygiene",
+                  "Environmental hygiene",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,

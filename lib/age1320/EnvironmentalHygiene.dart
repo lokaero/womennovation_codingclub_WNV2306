@@ -1,5 +1,5 @@
 //Page for Age group 13-20
-//Good touch
+//Environment hygiene
 
 import 'package:flutter/material.dart';
 import 'package:womenh/age1320/HygienePage.dart';
@@ -7,8 +7,8 @@ import 'package:womenh/age512/512content2.dart';
 import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
 
-class PersonalHygiene1320 extends StatelessWidget {
-  const PersonalHygiene1320({super.key});
+class EnvironmentHygiene1320 extends StatelessWidget {
+  const EnvironmentHygiene1320({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +46,7 @@ class PersonalHygiene1320 extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 24.0),
                 child: Text(
-                  "Personal Hygiene",
+                  "Environment Hygiene",
                   style: TextStyle(
                       fontFamily: 'Enrique',
                       fontSize: 30,
@@ -54,27 +54,25 @@ class PersonalHygiene1320 extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 50.0, vertical: 10),
-                child: Image(image: AssetImage('images/safe.png')),
+                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 0),
+                child: Image(image: AssetImage('images/environment.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
 
-⦿Teaching personal hygiene to children is important for them to prevent the spread of germs and keep them healthy.
+⦿Environmental hygiene is as important as personal hygiene. And children at a young age should be taught about environmental hygiene so that they will follow it through the rest of their life.
 
-⦿This app provides basic information about personal hygiene to kids in the language and terms which they can understand. 
+1.	The environment is everything that surrounds us. The environment around us should be kept clean to prevent the spread of germs and diseases. If the environment is clean all the people living in the environment will be healthy and happy.
 
-1.	Washing hands:  you should wash your hand regularly, especially before and after meals, after using the bathroom, after playing with friends, and after blowing your nose. Proper hand-washing techniques should be followed.
+2.	Cleanliness: cleanliness is keeping your surroundings clean by picking up waste and dropping them in the bin, keeping your belonging organized way.
 
-2.	Brushing teeth:  Children should brush their teeth twice a day right after waking up and before bed. Use brush and paste for at least two minutes to clean teeth and gums.
+3.	Conservation of resources: we should conserve resources such as water, and electricity by turning off lights and fans when not in use and properly closing taps.
 
-3.	Bathing: children should bathe regularly, that is every day with the help of soap and warm water to clean the whole body.
+4.	Proper food handling: food like fruits and vegetables should be washed and consumed. Waste from food should be properly disposed of as it would give a foul smell if not disposed of properly.
 
-4.	Nail care: nails should be kept clean and cut regularly to prevent the spread of germs. Learn how to use nail cutters and regularly wash your hands to prevent dirt and bacteria from nails
-
-5.	Mouth and nose hygiene: you should cover your nose and mouth while sneezing or coughing. Use tissues or a handkerchief and throw the tissues off after sneezing, Wash your hands afterward.
+5.	Recycling: recycling refers to using waste products in a useful way after some processes. Mostly plastics, paper, and glasses are recycled and they should be collected in a separate bin and given out for recycling in that way the waste in the environment can be reduced.
 
 
          """,

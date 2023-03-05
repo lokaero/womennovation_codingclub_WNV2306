@@ -30,7 +30,7 @@ class Hygiene extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.only(right: 160.0, top: 80),
             child: Text(
-              "Age Category 13-20",
+              "Age Category 5-12",
               style: TextStyle(
                 fontFamily: 'Enrique',
                 fontSize: 20,

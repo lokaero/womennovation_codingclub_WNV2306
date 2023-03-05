@@ -85,17 +85,7 @@ Example:hitting, kicking, or touching your private parts
 2.	Tell your mother, father, teacher, or a person whom u trust. They will help you and keep you safe
 3.	Try to push the person and run away from that place to your mom, dad, or any trusted adult.
 
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
+
          """,
                   textAlign: TextAlign.left,
                   style: TextStyle(fontSize: 20, fontFamily: 'Enrique'),

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:womenh/age1320/HygienePage.dart';
 import 'package:womenh/age1320/MentalHealth.dart';
 import 'package:womenh/pages/home_page.dart';
 
@@ -89,7 +90,7 @@ class Age1320 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const HomePage();
+                return const Hygiene1320();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -104,67 +105,7 @@ class Age1320 extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Content 2",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 3",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 4",
+                  "Hygiene",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,

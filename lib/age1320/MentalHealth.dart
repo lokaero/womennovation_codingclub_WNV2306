@@ -1,4 +1,4 @@
-//Page for Age group 5-12
+//Page for Age group 13-20
 //Good touch
 
 import 'package:flutter/material.dart';
@@ -72,18 +72,17 @@ class MentalHealth1320 extends StatelessWidget {
 
 ⦿Consider medication: In some cases, medication may be helpful for managing mood swings. Talk to your doctor about whether medication may be an appropriate option for you.
 
+Procrastination:
 
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
+⦿Procrastination is the act of delaying or postponing a task or activity, often unnecessarily. It is a common behavior that affects many people, and it can lead to decreased productivity, increased stress and anxiety, missed deadlines, and other negative consequences.
+
+⦿There are many reasons why people procrastinate, including fear of failure, lack of motivation, distraction, and poor time management skills. Some people may also procrastinate because they enjoy the rush of completing a task at the last minute or because they believe that they work better under pressure.
+
+⦿To overcome procrastination, it's important to identify the underlying reasons for the behavior and develop strategies to address them. Some strategies may include breaking down large tasks into smaller, more manageable steps, setting realistic deadlines, creating a schedule or to-do list, removing distractions, and rewarding yourself for completing tasks.
+
+⦿It's also important to recognize that procrastination is a habit, and breaking the habit may take time and effort. However, by consistently practicing good habits and focusing on the benefits of completing tasks in a timely manner, it is possible to overcome procrastination and achieve greater success and satisfaction in work and life.
+
+
          """,
                   textAlign: TextAlign.left,
                   style: TextStyle(fontSize: 20, fontFamily: 'Enrique'),
