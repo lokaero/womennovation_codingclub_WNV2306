@@ -43,7 +43,7 @@ class IntroPage extends StatelessWidget {
           // lets get started
 
           Padding(
-            padding: const EdgeInsets.all(20.0),
+            padding: const EdgeInsets.symmetric(vertical: 70.0),
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
@@ -60,7 +60,8 @@ class IntroPage extends StatelessWidget {
                   ],
                   borderRadius: BorderRadius.circular(12),
                 ),
-                padding: const EdgeInsets.all(10),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                 child: const Text(
                   "Get Started",
                   style: TextStyle(
