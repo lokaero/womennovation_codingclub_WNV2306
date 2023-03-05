@@ -71,6 +71,10 @@ class Age512 extends StatelessWidget {
                   ],
                   borderRadius: BorderRadius.circular(12),
                 ),
+                
+
+
+                
                 padding: const EdgeInsets.all(10),
                 child: const Text(
                   "Good Touch and Bad Touch",
@@ -80,7 +84,9 @@ class Age512 extends StatelessWidget {
                       fontFamily: 'Enrique',
                       fontWeight: FontWeight.bold),
                 ),
+                
               ),
+              
             ),
           ),
           Padding(
@@ -104,66 +110,6 @@ class Age512 extends StatelessWidget {
                 padding: const EdgeInsets.all(10),
                 child: const Text(
                   "Hygiene",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 3",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 4",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,

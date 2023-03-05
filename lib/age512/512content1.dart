@@ -53,7 +53,7 @@ class goodtouch extends StatelessWidget {
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 50.0, vertical: 10),
-                child: Image(image: AssetImage('images/Picture1.png')),
+                child: Image(image: AssetImage('images/touch.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
@@ -84,8 +84,6 @@ Example:hitting, kicking, or touching your private parts
 1.	You should tell NO loud and clear
 2.	Tell your mother, father, teacher, or a person whom u trust. They will help you and keep you safe
 3.	Try to push the person and run away from that place to your mom, dad, or any trusted adult.
-
-
 
          
          

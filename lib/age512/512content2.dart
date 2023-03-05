@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:womenh/age512/512content1.dart';
 import 'package:womenh/age512/512content2.dart';
+import 'package:womenh/age512/Environmenthygiene.dart';
 import 'package:womenh/age512/Personalhygiene.dart';
 import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
@@ -90,7 +91,7 @@ class Hygiene extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const Hygiene();
+                return const EnvironmentHygiene();
               })),
               child: Container(
                 decoration: BoxDecoration(
