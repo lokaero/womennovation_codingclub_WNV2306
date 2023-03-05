@@ -1,11 +1,19 @@
 import 'package:flutter/material.dart';
-import 'package:womenh/age2135/childcare.dart';
-import 'package:womenh/age2135/selfcare.dart';
-import 'package:womenh/age2135/vaccination.dart';
+import 'package:womenh/age1320/EnvironmentalHygiene.dart';
+import 'package:womenh/age1320/PersonalHygiene.dart';
+import 'package:womenh/age2135/diet.dart';
+import 'package:womenh/age2135/swing.dart';
+import 'package:womenh/age512/512content1.dart';
+import 'package:womenh/age512/512content2.dart';
+import 'package:womenh/age512/Environmenthygiene.dart';
+import 'package:womenh/age512/Personalhygiene.dart';
+import 'package:womenh/pages/age13-20.dart';
+import 'package:womenh/pages/age21-35.dart';
+import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
 
-class Age2135 extends StatelessWidget {
-  const Age2135({super.key});
+class Selfcare2135 extends StatelessWidget {
+  const Selfcare2135({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -13,12 +21,12 @@ class Age2135 extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.yellow,
         child: const Icon(
-          Icons.home,
+          Icons.arrow_back,
           color: Colors.black,
         ),
         onPressed: () => Navigator.pushReplacement(context,
             MaterialPageRoute(builder: (context) {
-          return const HomePage();
+          return const Age2135();
         })),
       ),
       body: Column(
@@ -36,9 +44,9 @@ class Age2135 extends StatelessWidget {
             ),
           ),
           const Padding(
-            padding: EdgeInsets.only(right: 180.0),
+            padding: EdgeInsets.only(right: 210.0),
             child: Text(
-              "Hello There!",
+              "Self Care",
               style: TextStyle(
                   fontFamily: 'Enrique',
                   fontSize: 30,
@@ -48,20 +56,18 @@ class Age2135 extends StatelessWidget {
 
           Padding(
             padding: const EdgeInsets.only(
-                left: 40.0, right: 40, top: 2, bottom: 60),
-            child: Image.asset('images/woman.png'),
+                left: 40.0, right: 40, top: 40, bottom: 60),
+            child: Image.asset('images/selfcare.png'),
           ),
 
-          //Welcome to women H&H by PSG
-
-          // lets get started
+//Good touch and bad touch
 
           Padding(
             padding: const EdgeInsets.all(10.0),
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const Childcare2135();
+                return const Swing2135();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -76,7 +82,7 @@ class Age2135 extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Child care",
+                  "Mood Swing",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
@@ -91,7 +97,7 @@ class Age2135 extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const Vaccine2135();
+                return const Diet2135();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -106,37 +112,7 @@ class Age2135 extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Vaccination",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const Selfcare2135();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Self Care",
+                  "Diet",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
@@ -151,11 +127,3 @@ class Age2135 extends StatelessWidget {
     );
   }
 }
-
-
-/*floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.yellow,
-        child: const Icon(
-          Icons.home,
-          color: Colors.black,
-        ),*/
