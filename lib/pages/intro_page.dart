@@ -21,7 +21,7 @@ class IntroPage extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.only(left: 10.0, right: 10),
             child: Text(
-              "Hello there! \n\nWelcome to ShesPrecious \nApp created by PSG tech students",
+              "Hello there! \n\nWelcome to She'sPrecious \nApp created by PSG tech students",
               style: TextStyle(
                 fontFamily: 'Enrique',
                 fontSize: 25,
