@@ -56,29 +56,74 @@ class Diet2135 extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 0),
+                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 10),
                 child: Image(image: AssetImage('images/diet.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
-⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
 
-1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
+⦿6 Basic Yet Important Things to Ensure A Mother & Her Child’s Good Health
+Here are 6 basic yet significant things to ensure your baby and you are in good health.
 
-⦿Here are some of the steps for the proper disposal of sanitary napkins:
+1. Focus on your Diet
 
-a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
+⦿A healthy diet is important/essential for maintaining good maternity health. Here's what you can include in your daily diet:
 
-b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
+⦿At least 5 portions of fruits and vegetables. You can boil the vegetables or juice them, or whichever way sounds easy to you.
 
-c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
+⦿Food items rich in carbs such as potatoes, rice, and pasta. Go for the whole grain varieties that contain fibers.
 
-d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+⦿Include eggs, lean meat, fish, broccoli for protein.
 
-2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
+⦿Dairy products such as milk or yogurt.
 
+⦿You can also connect with your nutritionist to help you craft a customized diet plan.
+
+⦿Please Note: What you eat goes to your baby. So, think five times before eating something harmful.
+
+2. Basic Exercise or Yoga
+
+⦿Regular exercise helps everyone, from kids and adults to old people, pregnant women, and even their babies. With exercise, you can:
+
+⦿Maintain a better posture.
+
+⦿Reduce stress on your knees.
+
+⦿Prevent gestational diabetes and blood pressure.
+
+⦿Improve the chances of a straightforward delivery.
+
+⦿Here are some exercises good for pregnant women:
+
+⦿Pilates
+⦿Yoga
+⦿Swimming
+⦿Brisk Walking
+
+3. Completely avoid Alcohol or Smoking
+
+⦿As stated earlier, the food you eat goes to your baby. And when it comes to liquids such as alcohol, it reaches the child's bloodstream and placenta even quicker. Similarly, smoking is a risk for you and your kid as it can increase the risk of:
+
+⦿Miscarriage
+⦿Placental Abruption
+⦿Smoking impacts your kid by increasing the risk of:
+
+⦿Stillbirth
+⦿SIDS
+⦿Low birth weight
+
+⦿So, completely avoid smoking and alcohol at all costs.
+
+4. Cut Out Caffeine
+
+⦿While caffeine offers you an energy boost, it can be harmful to your kids and your maternity health. Too much caffeine can increase the risk of miscarriage stillbirth and might even lead to low birth weight in the baby. So, avoid caffeinated drinks such as chocolate, energy drinks, cola, coffee, etc.
+
+5. Rest More
+
+⦿When a woman is expecting, her body changes. And this can lead to more energy expenditure than normal. Also, because of the irregular hormonal changes, a woman can feel fatigued or tired. So, it becomes important to take ample rest whenever you can. However, sleeping isn't easy while you're pregnant because of aches or pains. Speak to your doctor to help you find ways to sleep well and recoup.
+        
 
          """,
                   textAlign: TextAlign.left,

@@ -62,21 +62,27 @@ class Childcare2135 extends StatelessWidget {
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
-⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
+⦿Maintaining personal hygiene during pregnancy is just as important as having a nutritional diet and proper exercise to keep yourself healthy. Most women believe that staying away from dirty areas and washing their hands is equivalent to being hygienic. While those might be good starting points, that isn’t enough to cover all aspects of personal hygiene during pregnancy. The importance of it cannot be stressed enough, and there are numerous aspects related to your body that you should focus on during this phase.
 
-1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
+1. Hair & Skin Hygiene
 
-⦿Here are some of the steps for the proper disposal of sanitary napkins:
+⦿A lot of nutrients are taken from your body to help the child grow, which affect your skin in different ways. Furthermore, the secretion of oil within the glands of the hair gets a kick as well, causing oily hair to be a recurring situation in most pregnant women. Hence, shampooing your hair on a regular basis is essential to rid them of the excess oil and maintain hair texture. Since the skin can react quickly to any extremities, don’t spend extended hours in bathtubs or waters. A shower is a better choice. When choosing soaps and shampoos, treat yourself to the ones made from natural oils and substances since they are safer and gentler on your skin. However, bathing is the easiest and safest way to the maintenance of hygiene.
 
-a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
+2. Clothing
 
-b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
+⦿When organising your wardrobe for better clothes or purchasing newer ones, keep a few ideas in mind to help you choose better. Opt for clothes that you can wash with detergents that have antibacterial qualities. When choosing clothes, go for ones that are a bit loose and can be worn easily. Choose cotton clothes that can absorb sweat and change them as soon as they get sweaty. When purchasing a maternity bra, go for the one with pads that can absorb milk leaks from your nipples.
 
-c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
+3. Personal Hygiene
 
-d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+⦿Taking care of your own body, and specifically, your intimate regions is a necessity at this stage. Bathe daily and pay extra attention to the pubic region to keep it clean and free from any infection. Choose soaps that are plain and natural, near your vagina, so that it doesn’t disturb its natural pH balance. Remember to wash your hands before eating anything and keep a sanitiser handy.
 
-2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
+4. Oral Hygiene
+
+⦿Dental hygiene and pregnancy go hand-in-hand since what you eat is what the baby eats as well. Taking care of your teeth and your gums become even more necessary, given the numerous changes within your body. Talk to your doctor about using a gum ointment to soothe the inflammation in them. An elevation in the levels of estrogen can cause them to swell up and be extra sensitive, which can hurt quite a bit. Do remember to brush your teeth two times in a day no matter what. Keeping the buildup of plaque in check is necessary, and flossing can help you with that, too.
+
+5. Breast Care
+
+⦿Breast hygiene during pregnancy is necessary, too. Most women observe colostrum leaks towards the end of the first trimester. This needs to be cleaned regularly, for damp breasts can easily get itchy and unhygienic. Change bra pads regularly after they get wet and use lotions to treat nipple cracks, as suggested by your doctor.
 
 
          """,

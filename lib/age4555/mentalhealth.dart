@@ -57,29 +57,31 @@ class Mentalhealth4555 extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 0),
+                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 10),
                 child: Image(image: AssetImage('images/mentalhealth.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
-⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
 
-1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
+⦿Menopause can also have an impact on a woman's mental health. The decrease in estrogen levels during menopause can lead to a range of psychological and emotional symptoms. Some of the mental issues faced by menopause women are:
 
-⦿Here are some of the steps for the proper disposal of sanitary napkins:
+⦿Mood changes: The hormonal changes during menopause can lead to mood swings, irritability, and depression.
 
-a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
+⦿Anxiety: Menopause can cause anxiety and panic attacks in some women.
 
-b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
+⦿Memory and concentration problems: Some women may experience difficulty with memory and concentration during menopause.
 
-c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
+⦿Insomnia: Difficulty sleeping is a common symptom of menopause and can lead to fatigue, irritability, and difficulty concentrating.
 
-d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+⦿Loss of confidence: Some women may experience a loss of confidence and self-esteem during menopause due to physical changes in their body.
 
-2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
+⦿Sexual problems: Menopause can cause a decrease in libido and may lead to sexual problems such as vaginal dryness and discomfort during intercourse.
 
+⦿Changes in body image: The physical changes that occur during menopause can lead to changes in body image, which may lead to negative self-perception and feelings of inadequacy.
+
+⦿It is important for women to seek support and treatment for these mental health issues. Treatment options may include hormone replacement therapy, therapy, and medication. Additionally, lifestyle changes such as exercise, stress management techniques, and social support can also help improve mental health during menopause.
 
          """,
                   textAlign: TextAlign.left,

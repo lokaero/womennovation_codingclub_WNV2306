@@ -57,29 +57,31 @@ class Physical4555 extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 0),
+                padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 10),
                 child: Image(image: AssetImage('images/physicalchange.png')),
               ),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
-⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
 
-1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
+⦿Menopause is a natural biological process that marks the end of a woman's reproductive years. It typically occurs between the ages of 45 and 55, although it can happen earlier or later. Menopause is defined as the absence of menstrual periods for 12 consecutive months.
 
-⦿Here are some of the steps for the proper disposal of sanitary napkins:
+⦿During menopause, the body undergoes several physical changes due to a decrease in estrogen levels, which is the hormone responsible for regulating the menstrual cycle and other bodily functions. These changes can include:
 
-a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
+⦿Hot flashes and night sweats: These are sudden sensations of heat that can cause sweating and flushing of the face and neck.
 
-b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
+⦿Vaginal dryness and thinning of vaginal tissues: Due to the decline in estrogen, the tissues in the vaginal area become thinner and less elastic, which can lead to discomfort during sexual activity.
 
-c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
+⦿Sleep disturbances: Many women experience difficulty sleeping during menopause, including insomnia and waking up frequently during the night.
 
-d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+⦿Changes in libido: Some women may experience a decrease in sex drive due to hormonal changes.
 
-2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
+⦿Changes in bone density: The decline in estrogen levels can lead to a loss of bone density, which increases the risk of osteoporosis and bone fractures.
 
+⦿Urinary problems: The tissues in the urinary tract can become thinner and less elastic, leading to increased frequency and urgency of urination and sometimes incontinence.
+
+⦿It is important for women to discuss these physical changes with their healthcare provider to manage symptoms and prevent long-term health problems. Hormone replacement therapy and lifestyle changes, such as exercise and a healthy diet, can be effective in managing menopause symptoms
 
          """,
                   textAlign: TextAlign.left,

@@ -46,7 +46,7 @@ class Swing2135 extends StatelessWidget {
                 ),
               ),
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 24.0),
+                padding: EdgeInsets.symmetric(horizontal: 24.0,vertical: 10),
                 child: Text(
                   "Mood Swing",
                   style: TextStyle(
@@ -63,21 +63,24 @@ class Swing2135 extends StatelessWidget {
                 padding: EdgeInsets.symmetric(horizontal: 30.0),
                 child: Text(
                   """
-⦿Environmental hygiene is important for all regardless of age, however, it’s more specific for women who are in their teens, where they have specific hygiene practices that are necessary for their health and well-being.
 
-1.	Disposal of sanitary napkins: proper disposal of sanitary napkins is important to prevent the spread of germs and bacteria as well as to keep the surroundings clean. Sanitary napkins take years to decompose and can cause environmental pollution to a great extent
+⦿Take Natural Supplements
 
-⦿Here are some of the steps for the proper disposal of sanitary napkins:
+⦿Because of frequent mood swings, you might not be able to consume nutrient-rich food. However, this can make you weak and might lead to nutritional deficiencies in the kid. So, to maintain good maternity health, go for nutritional supplements such as Maternity Slow.
 
-a)	Wrap it properly: after use, wrap the napkin in the wrapper provided with the new one, as it prevents it from opening up and attracting insects and germs.
+⦿Maternity Slow, from Wellbeing Nutrition, is a time-conscious supplement in vegan omega oil that can help you ensure good maternity health. It comes with folate that helps with DNA synthesis, B vitamins to ensure the development of the baby's brain and nervous system, vitamin D for better fetal and maternal health.
 
-b)	Use a dedicated dustbin: do not dispose of used napkins in a common waste disposal bin maintain a separate bin exclusively for sanitary napkins. The bin should be lined with a plastic cover as it facilitates disposal when the bin is full.
+⦿What's more is that Maternity Slow also comes with selenium that ensures better immunity and zinc that improves fetal growth. All in all, Maternity Slow is all you need to ensure better health for your baby and yourself.
 
-c)	Do not flush:  sanitary napkins should never be flushed down the toilet as it clogs the drainage pipes and damages the sewage system. 
+⦿The supplement exists in the form of easy-to-consume capsules, which are meant specifically for pregnant women. A capsule each day is good enough to enhance child and maternity health.
 
-d)	Do not litter sanitary napkins by throwing them on the ground, it is unsanitary and also accounts for environmental pollution.
+⦿When you follow the aforementioned things, your pregnancy is smooth and healthy with no complications. It also causes you to feel good inside out and your skin to glow. If your skin is glowing while you’re pregnant, it surely is the pregnancy glow. Pregnancy glow is nothing but a phenomenon that makes your face glow when you're pregnant. When you're pregnant, the blood flow in your body increases by up to 50%, which leads to this natural pregnancy glow, and yes, it's normal.
 
-2.	Practice eco-friendly menstrual hygiene: instead of sanitary napkins and tampons women can opt for eco-friendly menstrual hygiene products such as menstrual cups, cloth pads to reduce the environmental impact.
+⦿Wrapping Up
+
+⦿Child and maternity health go hand in hand. If you, as a mother, take good care of yourself, eat healthy, and take the required nutrition from Maternity Slow, you can ensure good health not only for you but your child as well.
+
+⦿However, make sure to consult your midwife or doctor before administering a supplement. It's because sometimes, your body becomes allergic to compounds that you're not aware of. And consulting with an expert can help.
 
 
          """,
