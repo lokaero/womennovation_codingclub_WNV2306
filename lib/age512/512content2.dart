@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:womenh/age512/512content1.dart';
 import 'package:womenh/age512/512content2.dart';
+import 'package:womenh/age512/Personalhygiene.dart';
 import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
 
@@ -36,9 +37,9 @@ class Hygiene extends StatelessWidget {
             ),
           ),
           const Padding(
-            padding: EdgeInsets.only(right: 180.0),
+            padding: EdgeInsets.only(right: 210.0),
             child: Text(
-              "Hello There!",
+              "Hygiene",
               style: TextStyle(
                   fontFamily: 'Enrique',
                   fontSize: 30,
@@ -48,8 +49,8 @@ class Hygiene extends StatelessWidget {
 
           Padding(
             padding: const EdgeInsets.only(
-                left: 40.0, right: 40, top: 2, bottom: 60),
-            child: Image.asset('images/children.png'),
+                left: 40.0, right: 40, top: 40, bottom: 60),
+            child: Image.asset('images/sanitary.png'),
           ),
 
 //Good touch and bad touch
@@ -59,7 +60,7 @@ class Hygiene extends StatelessWidget {
             child: GestureDetector(
               onTap: () => Navigator.pushReplacement(context,
                   MaterialPageRoute(builder: (context) {
-                return const goodtouch();
+                return const PersonalHygiene();
               })),
               child: Container(
                 decoration: BoxDecoration(
@@ -74,7 +75,7 @@ class Hygiene extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Good Touch and Bad Touch",
+                  "Personal Hygiene",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
@@ -104,67 +105,7 @@ class Hygiene extends StatelessWidget {
                 ),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
-                  "Hygiene",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 3",
-                  style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                      fontFamily: 'Enrique',
-                      fontWeight: FontWeight.bold),
-                ),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: GestureDetector(
-              onTap: () => Navigator.pushReplacement(context,
-                  MaterialPageRoute(builder: (context) {
-                return const HomePage();
-              })),
-              child: Container(
-                decoration: BoxDecoration(
-                  color: Colors.yellow,
-                  boxShadow: const [
-                    BoxShadow(
-                        blurRadius: 20.0,
-                        offset: Offset(10, 0),
-                        color: Colors.grey)
-                  ],
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Content 4",
+                  "Environmental hygiene",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
