@@ -51,7 +51,7 @@ Sarvesh S (20P624).
 
 Smruthi P (20P625).
 
-Lokeshwaran B (21P913).-
+Lokeshwaran B (21P913).
 
 ## Future Plans
 
