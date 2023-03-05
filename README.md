@@ -1,16 +1,41 @@
-# womenh
+# ShesPrecious
 
-A new Flutter project.
+This project is a mobile application built using Flutter which runs on dart. The purpose of the app is to empower women by providing them with necessary tools and resources to help them in their daily lives. The app has been tested on iPhone 14 Pro and iPhone 14 Pro Max emulators ios(16.3.1) in debug mode.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, you will need to have the following tools installed on your computer:
 
-A few resources to get you started if this is your first Flutter project:
+Visual Studio Code (or any other IDE that supports Flutter development)
+Flutter SDK
+Dart SDK
+Once you have these tools installed, you can clone the repository using the following command:
+git clone 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ```
+  https://github.com/lokaero/womennovation_prodsw_codingclub.git
+  ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Running the App
+
+To run the app on your iOS device, follow these steps:
+
+Connect your iOS device to your computer using a USB cable.
+Open Xcode and select your device from the list of available devices.
+Run the following command in the terminal to start the app:
+
+  ```
+  fultter run
+  ```
+
+## Contributing
+
+This project is still in development stage and contributions are welcome. If you would like to contribute to this project, please create a pull request with your changes.
+
+
+
+
+
