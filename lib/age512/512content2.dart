@@ -1,12 +1,12 @@
 //Page for Age group 5-12
-//Good touch
+//Hygiene
 
 import 'package:flutter/material.dart';
 import 'package:womenh/pages/age5-12.dart';
 import 'package:womenh/pages/home_page.dart';
 
-class goodtouch extends StatelessWidget {
-  const goodtouch({super.key});
+class Hygiene extends StatelessWidget {
+  const Hygiene({super.key});
 
   @override
   Widget build(BuildContext context) {
